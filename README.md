@@ -1,4 +1,4 @@
-👋 Hi, I’m @JeelChheta27
+👋 Hi, I’m @JeelChheta27\n
 👀 I’m interested in DevOps, Full-Stack Development, Blockchain, and solving algorithmic challenges.
 🌱 I’m currently learning advanced data structures, DevOps tools, and blockchain applications in supply chain management.
 💞️ I’m looking to collaborate on innovative projects involving cloud technologies, containerization, and decentralized systems.
